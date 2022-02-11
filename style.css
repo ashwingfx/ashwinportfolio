@@ -98,6 +98,10 @@ h5 {
     color: #fff;
     font-size: 18px;
 }
+.experience {
+    position: relative;
+    margin-bottom: 50px;
+}
 .date {
     position: absolute;
     right: 0;
@@ -186,7 +190,7 @@ h5 {
 }
 @media(max-width:1100px) {
 .body-container {
-    padding: 20px;
+    padding: 27px;
  }
  .obj{
      padding: 50px;
